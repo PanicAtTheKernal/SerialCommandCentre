@@ -1,1 +1,3 @@
 # SerialCommandCentre
+
+Free to use. 
