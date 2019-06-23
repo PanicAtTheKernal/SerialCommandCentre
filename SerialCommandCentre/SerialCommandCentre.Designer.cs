@@ -220,7 +220,7 @@
             this.KeyPreview = true;
             this.Name = "SerialCommandCentre";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Skylabs Mini Control Centre";
+            this.Text = "Serial Command Centre";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
