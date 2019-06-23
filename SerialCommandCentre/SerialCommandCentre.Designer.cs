@@ -236,13 +236,8 @@
         private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button4;
         private System.Windows.Forms.Timer DataProcessing;
-        private GPS userControl21;
         private System.Windows.Forms.PictureBox pictureBox1;
-        private Home Home;
-        private SerialMointor userControl31;
-        private Graphs userControl11;
         private System.Windows.Forms.Button button5;
-        private RIC RIC;
         private System.Windows.Forms.Timer DataHandling;
         private Home home1;
         private GPS gps1;
