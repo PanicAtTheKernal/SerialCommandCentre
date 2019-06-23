@@ -1,0 +1,259 @@
+d:\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+d:\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+d:\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+d:\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+d:\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+d:\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl1.resources
+d:\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl2.resources
+d:\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+d:\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+d:\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+d:\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+d:\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl3.resources
+d:\Documents\Visual Studio 2017\Projects\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl4.resources
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl1.resources
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl2.resources
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl3.resources
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl4.resources
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.dll
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\GMap.NET.Core.dll
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.xml
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl5.resources
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\GMap.NET.Core.dll
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl1.resources
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl2.resources
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl3.resources
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl4.resources
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl5.resources
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\user\Desktop\WindowsFormsApp2(14-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\GMap.NET.Core.dll
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.dll
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.xml
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl1.resources
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl2.resources
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl3.resources
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl4.resources
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl5.resources
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\user\Desktop\Bob6\WindowsFormsApp2(15-4-19)(2)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.DirectX.DirectInput.dll
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.DirectX.DirectInput.xml
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.dll
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.RawInput.dll
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.XInput.dll
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SlimDX.D3D11Control.dll
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SlimDX.dll
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsInput.dll
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.pdb
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.RawInput.pdb
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.RawInput.xml
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.XInput.pdb
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.XInput.xml
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SlimDX.D3D11Control.xml
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsInput.xml
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.dll
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.dll
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\GMap.NET.Core.dll
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\GMap.NET.WindowsForms.dll
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.DirectInput.dll
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.dll
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.RawInput.dll
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.XInput.dll
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SlimDX.D3D11Control.dll
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SlimDX.dll
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.dll
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.EF6.dll
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.Linq.dll
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsInput.dll
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Zeroit.Framework.Gauges.dll
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.xml
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.xml
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.DirectX.xml
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.DirectX.DirectInput.xml
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.pdb
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.pdb
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.DirectInput.pdb
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.DirectInput.xml
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.RawInput.pdb
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.RawInput.xml
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.XInput.pdb
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.XInput.xml
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SlimDX.D3D11Control.xml
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.xml
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.dll.config
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsInput.xml
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl1.resources
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl2.resources
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl3.resources
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl4.resources
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl5.resources
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\PythonProjects\C#\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Zeroit.Framework.Gauges.dll
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\GMap.NET.Core.dll
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.DirectInput.dll
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.dll
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.RawInput.dll
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.XInput.dll
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SlimDX.D3D11Control.dll
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SlimDX.dll
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.dll
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsInput.dll
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Zeroit.Framework.Gauges.dll
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Microsoft.DirectX.DirectInput.xml
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.pdb
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.DirectInput.pdb
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.DirectInput.xml
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.RawInput.pdb
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.RawInput.xml
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.XInput.pdb
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SharpDX.XInput.xml
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\SlimDX.D3D11Control.xml
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.xml
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsInput.xml
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl1.resources
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl2.resources
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl3.resources
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl4.resources
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl5.resources
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Lenovo\Desktop\bob5\WindowsFormsApp2(28-4-19)\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Danie\Desktop\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Serial Command Centre.exe.config
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Serial Command Centre.exe
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Serial Command Centre.pdb
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.dll
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\GMap.NET.Core.dll
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.dll
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsInput.dll
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Zeroit.Framework.Gauges.dll
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.xml
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.pdb
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.xml
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.dll.config
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsInput.xml
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SerialCommandCentre.resources
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SerialCommandCentre.Properties.Resources.resources
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl1.resources
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl2.resources
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Home.resources
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.UserControl5.resources
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Serial Command Centre.exe
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Serial Command Centre.pdb
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SerialMointor.resources

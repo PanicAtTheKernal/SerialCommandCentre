@@ -1,0 +1,34 @@
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Serial Command Centre.exe.config
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Serial Command Centre.exe
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Serial Command Centre.pdb
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.dll
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.dll
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\GMap.NET.Core.dll
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\GMap.NET.WindowsForms.dll
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\GMap.NET.WindowsPresentation.dll
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.dll
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsInput.dll
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Zeroit.Framework.Gauges.dll
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.xml
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\EntityFramework.SqlServer.xml
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.pdb
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.xml
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\System.Data.SQLite.dll.config
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsInput.xml
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SerialCommandCentre.csprojAssemblyReference.cache
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SerialCommandCentre.resources
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SerialCommandCentre.Properties.Resources.resources
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.GPS.resources
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.SerialMointor.resources
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Home.resources
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.RIC.resources
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SerialCommandCentre.csproj.GenerateResource.cache
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SerialCommandCentre.csproj.CoreCompileInputs.cache
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\SerialCommandCentre.csproj.CopyComplete
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Serial Command Centre.exe
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Serial Command Centre.pdb
+D:\Daniel pc\Projects\C#\Cansat\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Graphs.resources
