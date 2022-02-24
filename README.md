@@ -1,11 +1,12 @@
 # SerialCommandCentre
-**ONLY WORKS ON WINDOWS**
+## THIS IS PROJECT WAS CREATED WHEN I DIDN'T FULLY UNDERSTAND GITHUB.  
+### **ONLY WORKS ON WINDOWS**
 
-**How the program works:**
+### How the program works:
   The program take temperture, humidity, gas, UVA, UVB, UVI, acceleration, pressure, longitude and latuide and displays it on 
   grpahs and a map.
 
-**Serial port:**  
+### Serial port:  
   For the program to work it needs string in the format   
   
   Keyword:Data|keyword2:Data|keyword3:Data
